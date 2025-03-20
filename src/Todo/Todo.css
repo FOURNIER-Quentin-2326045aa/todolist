@@ -1,0 +1,27 @@
+.div-tache {
+    background-color: rgb(223, 220, 220);
+    border-radius: 20px;
+    width: 50%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.div-tache:hover {
+    cursor: pointer;
+    opacity: 90%;
+}
+
+.filtres button {
+    background-color: rgb(15, 141, 120);
+    color: white;
+    border-radius: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.filtres button:hover {
+    cursor: pointer;
+    opacity: 90%;
+}

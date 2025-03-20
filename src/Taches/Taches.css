@@ -1,0 +1,27 @@
+.taches {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.reussi {
+    background-color: rgb(57, 150, 57);
+}
+
+.reussi h2 {
+    text-decoration: line-through;
+    text-decoration-color: black;
+    text-decoration-thickness: 5px;
+}
+
+.enattente {
+    background-color: rgb(221, 186, 32);
+}
+  
+.nouveau {
+    background-color: rgb(32, 152, 221);
+}
+
+.urgent {
+    border : 3px solid red;
+}
